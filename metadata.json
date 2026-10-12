@@ -1,0 +1,6 @@
+{
+  "name": "MultiLuz Studio - Vídeos YouTube de Kits Elétricos e Hidráulicos",
+  "description": "Gerador de vídeos comerciais para YouTube e Shorts (16:9 e 9:16) com Veo 3 e roteiros técnicos com Gemini 3.8 Flash para kits de materiais elétricos e hidráulicos para condomínios, residências e empresas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
